@@ -26,7 +26,7 @@ The dendrite is represented by a plastic pipe which is used to lead water to the
 
 The soma is a simple container which works as  summation function of all incoming that are inserted through the dendrites.
 
-The hillock is actually a bell syphon that is activated once "the sum" of all wather reaches a specific level. Once activated, the bell hillock will transfer all the wather in the soma to the axon.
+The hillock is actually a bell siphon that is activated once "the sum" of all wather reaches a specific level. Once activated, the bell hillock will transfer all the wather in the soma to the axon.
 
 ### Negative weights on dendrites
 
