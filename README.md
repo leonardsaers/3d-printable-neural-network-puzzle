@@ -8,6 +8,10 @@ The idea behind this project is to create a few Lego like components from which 
 
 The components in it's current form can be used to demonstrate how neurons perform a simple classification task. More iteration of the components would however be needed in order to achieve a Lego like experience.
 
+## Additional components
+
+5 mm gaskets and 8 mm pvc hose is needed in addition to the 3d printed parts.
+
 ## The neural components
 
 ![neural-components](images/neural-components.jpg)
